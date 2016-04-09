@@ -1,6 +1,6 @@
 name: michaelhollar
 favicon: null
-layout_spectrum: 0.5891894018277526
+layout_spectrum: 0.88685
 typography_spectrum: 0.25083921710029244
 title: Thinking it Through
 cta:
@@ -22,8 +22,8 @@ color:
     - '#d3d4d9'
     - '#bdaa64'
     - '#7185aa'
-  brandStrength: 0.5183651524130255
-  lightness: 0.03352175885811448
-  saturation: 0.29728027642704546
-  rhythmicContrast: 0.8184872528072447
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
