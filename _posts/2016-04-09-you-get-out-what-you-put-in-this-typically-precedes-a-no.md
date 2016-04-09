@@ -7,22 +7,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\"You get out what you put in.\" \_This typically precedes a notion of effort's impact on what one wishes to accomplish. \_Push more, get more. \_Work better, be better. \_We'd be better served if we chose to pivot, to place greater perspective on divergence—that is to say different in, different out. \_By putting more variety into our lives and work, we are more likely to create and be something materially more interesting and impactful."
-datePublished: '2016-04-09T19:52:14.459Z'
-dateModified: '2016-04-09T19:51:24.265Z'
+datePublished: '2016-04-09T20:04:34.060Z'
+dateModified: '2016-04-09T20:03:56.255Z'
 author: []
 title: ''
+sourcePath: _posts/2016-04-09-you-get-out-what-you-put-in-this-typically-precedes-a-no.md
+published: true
 authors: []
 publisher:
   name: images.unsplash.com
   domain: images.unsplash.com
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-you-get-out-what-you-put-in-this-typically-precedes-a-no.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac23c026-c2ff-4015-9b38-50ce5e383e77.jpg)
+
 "You get out what you put in."  This typically precedes a notion of effort's impact on what one wishes to accomplish.  Push more, get more.  Work better, be better.  We'd be better served if we chose to pivot, to place greater perspective on divergence_---_that is to say different in, different out.  By putting more variety into our lives and work, we are more likely to create and be something materially more interesting and impactful.
 
 Chinese norms of cuisine dictated that all dishes need to contain all five flavors of sweet, sour, salty, hot and bitter.  This commitment to diversity of ingredients produces a meal that awakens and satiates in a way that a cooking hotter or longer would not.
