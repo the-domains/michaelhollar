@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://images.unsplash.com/photo-1460050009045-c8b8e86106a8?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=80f41a11ea9fc604dc4868250744362e'
 inLanguage: null
 starred: false
 keywords: []
 description: "\"You get out what you put in.\" \_This typically precedes a notion of effort's impact on what one wishes to accomplish. \_Push more, get more. \_Work better, be better. \_We'd be better served if we chose to pivot, to place greater perspective on divergence—that is to say different in, different out. \_By putting more variety into our lives and work, we are more likely to create and be something materially more interesting and impactful."
-datePublished: '2016-04-09T20:41:11.498Z'
-dateModified: '2016-04-09T20:40:43.431Z'
+datePublished: '2016-04-09T20:41:45.329Z'
+dateModified: '2016-04-09T20:41:31.282Z'
 author: []
 title: You Get Out What You Put In
 sourcePath: _posts/2016-04-09-you-get-out-what-you-put-in-this-typically-precedes-a-no.md
@@ -19,6 +18,7 @@ publisher:
   domain: images.unsplash.com
   url: null
   favicon: null
+url: you-get-out-what-you-put-in/index.html
 _context: 'http://schema.org'
 _type: Article
 
