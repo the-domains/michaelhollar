@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Let it all in. \_"
-datePublished: '2016-04-09T20:37:13.409Z'
-dateModified: '2016-04-09T20:36:09.604Z'
-title: ''
+description: ''
+datePublished: '2016-04-09T21:07:49.867Z'
+dateModified: '2016-04-09T20:40:25.517Z'
+title: Let It All In
 author: []
 sourcePath: _posts/2016-04-09-let-it-all-in.md
 published: true
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9209068f-5eb2-47cc-95a2-5d06b429428e.jpg)
-
-> Let it all in.  
 
 We are told that we live in the age of experience.  That we value what we do more than what we have.  That we value what we see more than what we take.  But how much do we really let in?  How much experience are we really open to?  In a time where everything must be recorded or in some other form captured digitally, have we not simply replaced packaged goods with digital files?  This is not to challenge the digital life (of which I am obviously partaking) but to ask if we're really getting better at how and what we experience.
 
